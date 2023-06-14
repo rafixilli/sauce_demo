@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="10" total="16" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-15T01:10:50 IST" name="Suite" finished-at="2023-06-15T01:11:22 IST" duration-ms="31239">
+    <groups>
+    </groups>
+    <test started-at="2023-06-15T01:10:50 IST" name="Test" finished-at="2023-06-15T01:11:22 IST" duration-ms="31239">
+      <class name="Test_Package.TC_20_Add_all_items_Performance">
+        <test-method signature="Add_all_items()[pri:0, instance:Test_Package.TC_20_Add_all_items_Performance@4f2b503c]" started-at="2023-06-15T01:11:11 IST" name="Add_all_items" finished-at="2023-06-15T01:11:12 IST" duration-ms="1602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_all_items -->
+      </class> <!-- Test_Package.TC_20_Add_all_items_Performance -->
+      <class name="Test_Package.TC_18_Login_with_performance_glitch_user">
+        <test-method is-config="true" signature="initdriver()[pri:0, instance:Test_Package.TC_18_Login_with_performance_glitch_user@2c35e847]" started-at="2023-06-15T01:10:36 IST" name="initdriver" finished-at="2023-06-15T01:10:50 IST" duration-ms="14733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initdriver -->
+        <test-method signature="Login_with_valid_UserName_and_Valid_Password()[pri:0, instance:Test_Package.TC_18_Login_with_performance_glitch_user@2c35e847]" started-at="2023-06-15T01:10:51 IST" name="Login_with_valid_UserName_and_Valid_Password" finished-at="2023-06-15T01:11:02 IST" duration-ms="10994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_with_valid_UserName_and_Valid_Password -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:Test_Package.TC_18_Login_with_performance_glitch_user@2c35e847]" started-at="2023-06-15T01:11:24 IST" name="driverclose" finished-at="2023-06-15T01:11:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+      </class> <!-- Test_Package.TC_18_Login_with_performance_glitch_user -->
+      <class name="Test_Package.TC_23_Information_Page_Enter_Details_Performance">
+        <test-method signature="Information_Page_Enter_Details()[pri:0, instance:Test_Package.TC_23_Information_Page_Enter_Details_Performance@e15b7e8]" started-at="2023-06-15T01:11:16 IST" name="Information_Page_Enter_Details" finished-at="2023-06-15T01:11:22 IST" duration-ms="6005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Information_Page_Enter_Details -->
+      </class> <!-- Test_Package.TC_23_Information_Page_Enter_Details_Performance -->
+      <class name="Test_Package.TC_21_remove_items_that_have_a_price_less_Performance">
+        <test-method signature="add_all_items()[pri:0, instance:Test_Package.TC_21_remove_items_that_have_a_price_less_Performance@bae7dc0]" started-at="2023-06-15T01:11:12 IST" name="add_all_items" finished-at="2023-06-15T01:11:13 IST" duration-ms="509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_all_items -->
+      </class> <!-- Test_Package.TC_21_remove_items_that_have_a_price_less_Performance -->
+      <class name="Test_Package.TC_22_Checkout_button_Performance">
+        <test-method signature="add_all_items()[pri:0, instance:Test_Package.TC_22_Checkout_button_Performance@209da20d]" started-at="2023-06-15T01:11:13 IST" name="add_all_items" finished-at="2023-06-15T01:11:16 IST" duration-ms="3022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_all_items -->
+      </class> <!-- Test_Package.TC_22_Checkout_button_Performance -->
+      <class name="Test_Package.TC_19_Sort_the_products_in_price_low_to_high_order_perfromance">
+        <test-method signature="Sort_the_products_in_price_low_to_high_order_perfromance()[pri:0, instance:Test_Package.TC_19_Sort_the_products_in_price_low_to_high_order_perfromance@6fd83fc1]" started-at="2023-06-15T01:11:02 IST" name="Sort_the_products_in_price_low_to_high_order_perfromance" finished-at="2023-06-15T01:11:11 IST" duration-ms="8978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sort_the_products_in_price_low_to_high_order_perfromance -->
+      </class> <!-- Test_Package.TC_19_Sort_the_products_in_price_low_to_high_order_perfromance -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
